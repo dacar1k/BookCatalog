@@ -1,0 +1,69 @@
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1\Contracts\obj\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\Contracts\obj\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\Entities.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\Entities.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\Entities.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\bin\Debug\net5.0\Entities.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Contracts\obj\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\obj\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\bin\Debug\net5.0\Entities.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\bin\Debug\net5.0\Entities.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete

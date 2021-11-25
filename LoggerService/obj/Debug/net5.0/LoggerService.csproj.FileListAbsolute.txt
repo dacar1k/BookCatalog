@@ -1,0 +1,79 @@
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\Entities.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\Entities.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\Entities.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\bin\Debug\net5.0\Entities.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\bin\Debug\net5.0\Entities.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\bin\Debug\net5.0\Entities.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\LoggerService\obj\Debug\net5.0\LoggerService.pdb

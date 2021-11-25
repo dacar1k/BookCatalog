@@ -1,0 +1,51 @@
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Entities.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Entities.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\zthz9\Desktop\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Entities.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\bin\Debug\net5.0\Entities.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.net-project try n-1 - Copy - Copy\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\bin\Debug\net5.0\Contracts.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\bin\Debug\net5.0\Entities.dll
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\bin\Debug\net5.0\Contracts.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\bin\Debug\net5.0\Entities.pdb
+C:\Users\zthz9\OneDrive\Рабочий стол\.BookCatalog\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete

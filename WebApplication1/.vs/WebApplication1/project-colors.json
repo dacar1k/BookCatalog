@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95874511-a0e0-46de-a28e-a673361b2c21": {
+      "ProjectGuid": "95874511-a0e0-46de-a28e-a673361b2c21",
+      "DisplayName": "BookCatalog",
+      "ColorIndex": 0
+    },
+    "075c01ad-129c-4bda-9e9a-444026169668": {
+      "ProjectGuid": "075c01ad-129c-4bda-9e9a-444026169668",
+      "DisplayName": "Contracts",
+      "ColorIndex": 1
+    },
+    "10b7343c-e1ad-4a28-97f9-7be06b3badf5": {
+      "ProjectGuid": "10b7343c-e1ad-4a28-97f9-7be06b3badf5",
+      "DisplayName": "Repository",
+      "ColorIndex": 2
+    },
+    "f6db98fc-fe2f-4368-b138-4c611dfe9308": {
+      "ProjectGuid": "f6db98fc-fe2f-4368-b138-4c611dfe9308",
+      "DisplayName": "LoggerService",
+      "ColorIndex": 3
+    },
+    "77bef6aa-e411-4fb4-90a5-6108ce01c150": {
+      "ProjectGuid": "77bef6aa-e411-4fb4-90a5-6108ce01c150",
+      "DisplayName": "Entities",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
