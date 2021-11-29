@@ -10,5 +10,6 @@ namespace Entities.DataTransferObjects
     {
         public string Title { get; set; }
         public int Year { get; set; }
+        public List<Guid> AuthorsIds { get; set; }
     }
 }

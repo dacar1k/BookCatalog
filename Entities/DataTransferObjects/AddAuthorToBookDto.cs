@@ -8,6 +8,7 @@ namespace Entities.DataTransferObjects
 {
     public class AddAuthorToBookDto
     {
+        //public Guid BookID { get; set; }
         public List<Guid> AuthorsIds { get; set; }
     }
 }

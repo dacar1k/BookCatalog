@@ -45,7 +45,8 @@ namespace BookCatalog.Controllers
         [HttpGet("{id}", Name = "GetBookById")]
         public async Task <IActionResult> GetBook(Guid id)
         {
-            var book = await _repository.Book.GetBookAsync(id, trackChangers: false);
+            //var book = await _repository.Book.GetBookAsync(id, trackChangers: false);
+            var book = await _repository.Book.getBookInfoAsync(id, trackChanges: false);
             if (book == null)
             {
                 _logger.LogInfo($"Book with id: {id} doesn't exist in database");
@@ -79,38 +80,37 @@ namespace BookCatalog.Controllers
             return NoContent();
         }
 
-        [HttpPost]
-        public async Task <IActionResult> CreateBook([FromBody] BookForCreationDto book)
+        [HttpPost(Name = "CreateBookForAuthor")]
+        public IActionResult CreateBookForAuthor([FromBody] BookForCreationDto book)
         {
-            if(book == null)
+            if (book == null)
             {
-                _logger.LogInfo("Book object sent from client is null.");
-                return BadRequest();
+                _logger.LogError("BookForCreationDto object sent from client is null.");
+                return BadRequest("BookForCreationDto object is null");
             }
 
             var bookEntity = _mapper.Map<Book>(book);
-            _repository.Book.createBook(bookEntity);
-            await _repository.SaveAsync();
-            var bookToReturn = _mapper.Map<BookToUpdateDto>(book);
-            return Ok(bookToReturn);
-   
+            _repository.Book.CreateBookForAuthor(book);
+            _repository.SaveAsync();
+
+            return Ok();
         }
 
-        [HttpPost("{bookId}")]
+        [HttpPut("{bookId}", Name = "AddbooktoAuthor")]
         public async Task<IActionResult> AddAuthorForBook(Guid bookID, AddAuthorToBookDto author)
         {
-            if ((bookID == null) || (author == null))
+            if (author == null)
             {
-                _logger.LogError("Can't add author to book");
-                return BadRequest();
+                _logger.LogError("BookUpdateDto object sent from client is null.");
+                return BadRequest("BookUpdateDto object is null");
             }
-            var bookEntity = await _repository.Book.GetBookAsync(bookID, trackChangers: false);
+            var bookEntity = await _repository.Book.GetBookAsync(bookID, trackChangers: true);
             if (bookEntity == null)
             {
                 _logger.LogInfo($"Book with {bookID} doesn't exists in database.");
                 return NotFound();
             }
-            _repository.Book.addAuthorToBook(bookID, author);
+            await _repository.Book.addAuthorToBook(bookID, author);
             await _repository.SaveAsync();
             return NoContent();
         }
@@ -129,6 +129,7 @@ namespace BookCatalog.Controllers
             await _repository.SaveAsync();
             return NoContent();
         }
+
 
     }
 

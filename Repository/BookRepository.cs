@@ -26,16 +26,17 @@ namespace Repository
         public void updateBook(Book book) => Update(book);
         public void deleteBook(Book book) => Delete(book);
         
-        public void addAuthorToBook(Guid bookId, AddAuthorToBookDto addAuthorToBook)
+        public async Task addAuthorToBook(Guid bookId, AddAuthorToBookDto addAuthorToBook)
         {
-            var bookProperties = getBookInfoAsync(bookId, false);
-            foreach (var _authorsBook in addAuthorToBook.AuthorsIds.Select(a => new AuthorBook
+
+            var BookInf = await getBookInfoAsync(bookId, trackChanges: false);
+            foreach (var _authorsBooks in addAuthorToBook.AuthorsIds.Select(id => new AuthorBook()
             {
-                AuthorId = a,
-                BookId = bookId
-            }))
+                BookId = bookId,
+                AuthorId = id
+            }).Where(_authorsBooks => !BookInf.AuthorsIds.Exists(_authorsBooks.AuthorId.Equals)))
             {
-                _repository.AuthorBook.Add(_authorsBook);
+                _repository.AuthorBook.Add(_authorsBooks);
                 _repository.SaveChanges();
             }
         }
@@ -49,6 +50,27 @@ namespace Repository
                 AuthorsIds = book.AuthorBook.Select(a => a.AuthorId).ToList()
             }).FirstOrDefault();
             return bookInfo;
+        }
+        public void CreateBookForAuthor(BookForCreationDto book)
+        {
+            var _book = new Book()
+            {
+                Title = book.Title,
+                Year = book.Year,
+            };
+            _repository.Books.Add(_book);
+            _repository.SaveChanges();
+
+            foreach (var id in book.AuthorsIds)
+            {
+                var _authorsBooks = new AuthorBook()
+                {
+                    BookId = _book.Id,
+                    AuthorId = id
+                };
+                _repository.AuthorBook.Add(_authorsBooks);
+                _repository.SaveChanges();
+            }
         }
     }
 }

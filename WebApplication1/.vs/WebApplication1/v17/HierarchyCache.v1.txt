@@ -1,0 +1,266 @@
+﻿++Solution 'WebApplication1' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:WebApplication1.sln
+++BookCatalog
+i:{00000000-0000-0000-0000-000000000000}:BookCatalog
+++Connected Services 
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:>1224
+++Dependencies
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:>1223
+i:{075c01ad-129c-4bda-9e9a-444026169668}:>588
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:>587
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:>849
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:>924
+++Properties
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\properties\
+++Controllers
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\controllers\
+++AuthenticationController.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\controllers\authenticationcontroller.cs
+++AuthorController.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\controllers\authorcontroller.cs
+++BookController.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\controllers\bookcontroller.cs
+++Extensions
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\extensions\
+++ExceptionMiddlewareExtensions.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\extensions\exceptionmiddlewareextensions.cs
+++ServiceExtensions.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\extensions\serviceextensions.cs
+++internal_logs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\internal_logs\
+++internallog.txt
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\internal_logs\internallog.txt
+++logs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\logs\
+++2021-11-09_logfile.txt
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\logs\2021-11-09_logfile.txt
+++Migrations
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\migrations\
+++20211122114044_DatabaseCreation.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\migrations\20211122114044_databasecreation.cs
+++20211122114102_InitialData.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\migrations\20211122114102_initialdata.cs
+++20211122114102_InitialData.Designer.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\migrations\20211122114102_initialdata.designer.cs
+++20211125220522_CreatingIdentityTables.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\migrations\20211125220522_creatingidentitytables.cs
+++20211125221246_AddedRolesToDb.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\migrations\20211125221246_addedrolestodb.cs
+++RepositoryContextModelSnapshot.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\migrations\repositorycontextmodelsnapshot.cs
+++.editorconfig
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\.editorconfig
+++appsettings.json
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\appsettings.json
+++CsvOutputFormatter.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\csvoutputformatter.cs
+++MapperProfile.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\mapperprofile.cs
+++nlog.config
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\nlog.config
+++Program.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\program.cs
+++Startup.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\startup.cs
+++WeatherForecast.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\weatherforecast.cs
+++No service dependencies discovered
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:>1225
+++Analyzers
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:analyzers
+i:{075c01ad-129c-4bda-9e9a-444026169668}:analyzers
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:analyzers
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:analyzers
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:analyzers
+++Frameworks
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:frameworks
+i:{075c01ad-129c-4bda-9e9a-444026169668}:frameworks
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:frameworks
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:frameworks
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:frameworks
+++Packages
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:packages
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:packages
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:packages
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:packages
+++Projects
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:projects
+i:{075c01ad-129c-4bda-9e9a-444026169668}:projects
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:projects
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:projects
+++launchSettings.json
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\properties\launchsettings.json
+++20211122114044_DatabaseCreation.Designer.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\migrations\20211122114044_databasecreation.designer.cs
+++20211125220522_CreatingIdentityTables.Designer.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\migrations\20211125220522_creatingidentitytables.designer.cs
+++20211125221246_AddedRolesToDb.Designer.cs
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\migrations\20211125221246_addedrolestodb.designer.cs
+++appsettings.Development.json
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\users\zthz9\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:c:\users\zthz9\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\users\zthz9\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\users\zthz9\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:c:\users\zthz9\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\users\zthz9\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\webapplication1\microsoft.netcore.app
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\contracts\microsoft.netcore.app
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\loggerservice\microsoft.netcore.app
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\microsoft.netcore.app
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\repository\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:>1291
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.0)
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:>1315
+++Microsoft.EntityFrameworkCore (6.0.0)
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:>1289
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:>1266
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:>1290
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:>1294
+++NLog.Extensions.Logging (1.7.4)
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:>1292
+++Swashbuckle.AspNetCore (6.2.3)
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:>1293
+++Entities
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\bin\debug\net6.0\entities.dll
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\bin\debug\net6.0\entities.dll
+i:{00000000-0000-0000-0000-000000000000}:Entities
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\bin\debug\net6.0\entities.dll
+++LoggerService
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\loggerservice\bin\debug\net6.0\loggerservice.dll
+i:{00000000-0000-0000-0000-000000000000}:LoggerService
+++Repository
+i:{95874511-a0e0-46de-a28e-a673361b2c21}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\repository\bin\debug\net6.0\repository.dll
+i:{00000000-0000-0000-0000-000000000000}:Repository
+++Contracts
+i:{00000000-0000-0000-0000-000000000000}:Contracts
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\contracts\bin\debug\net6.0\contracts.dll
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\contracts\bin\debug\net6.0\contracts.dll
+++IAuthenticationManager.cs
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\contracts\iauthenticationmanager.cs
+++IAuthorRepository.cs
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\contracts\iauthorrepository.cs
+++IBookRepository.cs
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\contracts\ibookrepository.cs
+++ILoggerManager.cs
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\contracts\iloggermanager.cs
+++IRepositoryBase.cs
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\contracts\irepositorybase.cs
+++IRepositoryManager.cs
+i:{075c01ad-129c-4bda-9e9a-444026169668}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\contracts\irepositorymanager.cs
+++LoggerService.cs
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\loggerservice\loggerservice.cs
+++NLog (4.7.12)
+i:{f6db98fc-fe2f-4368-b138-4c611dfe9308}:>1265
+++Configuration
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\configuration\
+++AuthorBookConfiguration.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\configuration\authorbookconfiguration.cs
+++AuthorConfiguration.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\configuration\authorconfiguration.cs
+++BookConfiguration.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\configuration\bookconfiguration.cs
+++RoleConfiguration.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\configuration\roleconfiguration.cs
+++DataTransferObjects
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\
+++AddAuthorToBookDto.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\addauthortobookdto.cs
+++AllBooksDto.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\allbooksdto.cs
+++AuthorBooksDto.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\authorbooksdto.cs
+++AuthorDto.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\authordto.cs
+++AuthorForCreationDto.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\authorforcreationdto.cs
+++AuthorToUpdateDto.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\authortoupdatedto.cs
+++BookDto.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\bookdto.cs
+++BookForCreationDto.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\bookforcreationdto.cs
+++BookToUpdateDto.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\booktoupdatedto.cs
+++UserForAuthenticationDto.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\userforauthenticationdto.cs
+++UserForRegistration.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\datatransferobjects\userforregistration.cs
+++ErrorModel
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\errormodel\
+++ErrorDetails.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\errormodel\errordetails.cs
+++Models
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\models\
+++Author.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\models\author.cs
+++AuthorBook.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\models\authorbook.cs
+++Book.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\models\book.cs
+++User.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\models\user.cs
+++RepositoryContext.cs
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\entities\repositorycontext.cs
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0)
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:>1271
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.0)
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:>1270
+++Newtonsoft.Json (13.0.1)
+i:{77bef6aa-e411-4fb4-90a5-6108ce01c150}:>1269
+++AuthenticationManager.cs
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\repository\authenticationmanager.cs
+++AuthorRepository.cs
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\repository\authorrepository.cs
+++BookRepository.cs
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\repository\bookrepository.cs
+++RepositoryBase.cs
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\repository\repositorybase.cs
+++RepositoryManager.cs
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:c:\users\zthz9\onedrive\рабочий стол\.bookcatalog\repository\repositorymanager.cs
+++System.IdentityModel.Tokens.Jwt (6.14.1)
+i:{10b7343c-e1ad-4a28-97f9-7be06b3badf5}:>1332
