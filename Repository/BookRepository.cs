@@ -39,6 +39,7 @@ namespace Repository
                 _repository.AuthorBook.Add(_authorsBooks);
                 _repository.SaveChanges();
             }
+                
         }
         public async Task<BookDto> getBookInfoAsync(Guid id, bool trackChanges)
         {
@@ -51,7 +52,7 @@ namespace Repository
             }).FirstOrDefault();
             return bookInfo;
         }
-        public void CreateBookForAuthor(BookForCreationDto book)
+        public async Task CreateBookForAuthor(BookForCreationDto book)
         {
             var _book = new Book()
             {

@@ -45,7 +45,6 @@ namespace BookCatalog.Controllers
         [HttpGet("{id}", Name = "GetBookById")]
         public async Task <IActionResult> GetBook(Guid id)
         {
-            //var book = await _repository.Book.GetBookAsync(id, trackChangers: false);
             var book = await _repository.Book.getBookInfoAsync(id, trackChanges: false);
             if (book == null)
             {
@@ -58,7 +57,6 @@ namespace BookCatalog.Controllers
                 return Ok(bookDto);
             }
         }
-
 
         [HttpPut]
         public async Task<IActionResult> UpdateBook(Guid bookID, [FromBody] BookToUpdateDto book)
@@ -81,7 +79,7 @@ namespace BookCatalog.Controllers
         }
 
         [HttpPost(Name = "CreateBookForAuthor")]
-        public IActionResult CreateBookForAuthor([FromBody] BookForCreationDto book)
+        public async Task <IActionResult> CreateBookForAuthor([FromBody] BookForCreationDto book)
         {
             if (book == null)
             {
@@ -90,13 +88,13 @@ namespace BookCatalog.Controllers
             }
 
             var bookEntity = _mapper.Map<Book>(book);
-            _repository.Book.CreateBookForAuthor(book);
-            _repository.SaveAsync();
+            await _repository.Book.CreateBookForAuthor(book);
+            await _repository.SaveAsync();
 
             return Ok();
         }
 
-        [HttpPut("{bookId}", Name = "AddbooktoAuthor")]
+        [HttpPost("{bookId}", Name = "AddbooktoAuthor")]
         public async Task<IActionResult> AddAuthorForBook(Guid bookID, AddAuthorToBookDto author)
         {
             if (author == null)
